@@ -1,0 +1,2 @@
+rootProject.name = "RichEditView"
+include ':app'
